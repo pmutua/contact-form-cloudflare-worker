@@ -1,4 +1,4 @@
-# 📧 Contact Form Service Worker
+# 📧 Contact Form Cloudflare Worker
 
 A production-ready, secure contact form API built with Cloudflare Workers that automatically sends professional email responses to clients while notifying you of new submissions.
 
